@@ -485,9 +485,6 @@ img {
     background-color: #2E2F42;
     padding-top: 100px;
     padding-bottom: 100px;
-    background-image: linear-gradient(rgba(46, 47, 66, 0.70), rgba(46, 47, 66, 0.70));
-    max-width: 1440px;
-    margin: auto;
 }
 
 .footer-logotype {
